@@ -1,0 +1,85 @@
+.newsletter_section_wrapper {
+  display: block;
+  width: 1442px;
+  height: 289px;
+  position: relative;
+}
+.styled638 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background: rgba(18, 35, 50, 1);
+  width: fit-content;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 980px 0px 0px;
+  gap: 10px;
+}
+.newsletter {
+  display: flex;
+  position: absolute;
+  top: 89px;
+  left: 194px;
+  width: fit-content;
+  align-items: flex-start;
+  gap: 149px;
+}
+.title {
+  display: flex;
+  width: fit-content;
+  align-items: flex-start;
+  padding: 10px 10px 10px 10px;
+  gap: 10px;
+}
+.don_t_miss_our_weekly_updates_about_ilegrams_alumni_story {
+  color: rgba(255, 255, 255, 1);
+  font-size: 28px;
+  font-family: "Roboto Slab";
+  font-weight: 500;
+  letter-spacing: 0em;
+  text-align: left;
+  white-space: pre-line;
+}
+.subscribe1 {
+  display: flex;
+  width: fit-content;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 10px;
+}
+.input_field {
+  display: flex;
+  border: 2px solid rgb(115, 115, 115);
+  border-radius: 30px;
+  width: fit-content;
+  align-items: flex-start;
+  padding: 18px 250px 18px 46px;
+  gap: 10px;
+}
+.enter_your_email_address {
+  color: rgba(196, 196, 196, 1);
+  font-size: 16px;
+  font-family: "Roboto Slab";
+  letter-spacing: 0em;
+  text-align: left;
+  white-space: pre-line;
+}
+.subscribe_btn {
+  display: flex;
+  background: rgba(196, 196, 196, 1);
+  border: 2px solid rgb(115, 115, 115);
+  border-radius: 30px;
+  width: fit-content;
+  align-items: flex-start;
+  padding: 19px 39px 19px 39px;
+  gap: 10px;
+}
+.subscribe {
+  color: rgba(18, 35, 50, 1);
+  font-size: 16px;
+  font-family: "Roboto Slab";
+  letter-spacing: 0em;
+  text-align: left;
+  white-space: pre-line;
+}

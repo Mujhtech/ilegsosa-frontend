@@ -1,0 +1,297 @@
+.events_section_wrapper {
+  display: block;
+  position: relative;
+  width: 1440px;
+  height: 1030px;
+}
+.rectangle_653 {
+  display: flex;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background: rgba(255, 255, 255, 1);
+  width: 1440px;
+  height: 1030px;
+}
+.layout1 {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  gap: 33px;
+  padding: 74px 63px 74px 49px;
+  align-items: center;
+}
+.frame_11 {
+  display: flex;
+  width: fit-content;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
+}
+.event_title {
+  display: flex;
+  width: fit-content;
+  align-items: flex-start;
+  padding: 10px 10px 10px 10px;
+  gap: 10px;
+}
+.featured_events {
+  color: rgba(2, 96, 57, 1);
+  font-size: 18px;
+  font-family: "Roboto";
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: center;
+  white-space: pre-line;
+}
+.event_title_text {
+  display: flex;
+  width: fit-content;
+  align-items: flex-start;
+  padding: 10px 10px 10px 10px;
+  gap: 10px;
+}
+.annual_meetup_scholarship_presentation {
+  color: rgba(30, 30, 30, 1);
+  font-size: 48px;
+  font-family: "Roboto Slab";
+  font-weight: 500;
+  letter-spacing: 0em;
+  text-align: center;
+  width: 599px;
+}
+.event_venue_detail {
+  display: flex;
+  width: fit-content;
+  align-items: flex-start;
+  padding: 10px 10px 10px 10px;
+  gap: 10px;
+}
+.ilegrams_old_students_association_secretariat_canon_j_a_akinyemi_b3 {
+  color: rgba(18, 35, 50, 1);
+  font-size: 14px;
+  font-family: "Roboto";
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  white-space: pre-line;
+}
+.layout {
+  position: relative;
+  width: 1328px;
+  height: 596px;
+}
+.styled366 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: fit-content;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px 10px 10px 10px;
+  gap: 10px;
+}
+.event_toggle {
+  display: flex;
+  position: absolute;
+  top: 209px;
+  left: 806px;
+  width: fit-content;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 60px;
+}
+.event_detail_highlight {
+  display: flex;
+  background: rgba(3, 88, 106, 1);
+  border-radius: 21px;
+  width: fit-content;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 47px 36px 47px 36px;
+  gap: 10px;
+}
+.event_dets {
+  display: flex;
+  width: fit-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px;
+}
+.countdown {
+  display: flex;
+  width: fit-content;
+  align-items: flex-start;
+  gap: 57px;
+}
+.days1 {
+  display: flex;
+  width: fit-content;
+  flex-direction: column;
+  align-items: flex-start;
+}
+._301 {
+  color: rgba(255, 255, 255, 1);
+  font-size: 48px;
+  font-family: "Roboto Slab";
+  font-weight: 500;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 67px;
+}
+.days {
+  color: rgba(255, 255, 255, 1);
+  font-size: 14px;
+  font-family: "Roboto Slab";
+  font-weight: 500;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 38px;
+}
+.hours1 {
+  display: flex;
+  width: fit-content;
+  flex-direction: column;
+  align-items: flex-start;
+}
+._14 {
+  color: rgba(255, 255, 255, 1);
+  font-size: 48px;
+  font-family: "Roboto Slab";
+  font-weight: 500;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 67px;
+}
+.hours {
+  color: rgba(255, 255, 255, 1);
+  font-size: 14px;
+  font-family: "Roboto Slab";
+  font-weight: 500;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 64px;
+}
+.minutes1 {
+  display: flex;
+  width: fit-content;
+  flex-direction: column;
+  align-items: flex-start;
+}
+._36 {
+  color: rgba(255, 255, 255, 1);
+  font-size: 48px;
+  font-family: "Roboto Slab";
+  font-weight: 500;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 67px;
+}
+.minutes {
+  color: rgba(255, 255, 255, 1);
+  font-size: 14px;
+  font-family: "Roboto Slab";
+  font-weight: 500;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 64px;
+}
+.seconds1 {
+  display: flex;
+  width: fit-content;
+  flex-direction: column;
+  align-items: flex-start;
+}
+._43 {
+  color: rgba(255, 255, 255, 1);
+  font-size: 48px;
+  font-family: "Roboto Slab";
+  font-weight: 500;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 67px;
+}
+.seconds {
+  color: rgba(255, 255, 255, 1);
+  font-size: 14px;
+  font-family: "Roboto Slab";
+  font-weight: 500;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 64px;
+}
+.styled367 {
+  width: fit-content;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px 10px 10px 10px;
+  gap: 10px;
+}
+.date_register {
+  display: flex;
+  width: fit-content;
+  justify-content: center;
+  align-items: center;
+  gap: 63px;
+}
+.date3 {
+  display: flex;
+  width: fit-content;
+  align-items: flex-start;
+  padding: 10px 10px 10px 10px;
+  gap: 10px;
+}
+.november_24th_2021 {
+  color: rgba(255, 255, 255, 1);
+  font-size: 24px;
+  font-family: "Roboto Slab";
+  font-weight: 500;
+  letter-spacing: 0em;
+  text-align: left;
+  white-space: pre-line;
+}
+.register_cta {
+  display: flex;
+  background: rgba(214, 245, 251, 1);
+  border-radius: 20px;
+  width: fit-content;
+  align-items: flex-start;
+  padding: 9px 28px 9px 28px;
+  gap: 10px;
+}
+.register {
+  color: rgba(2, 96, 57, 1);
+  font-size: 16px;
+  font-family: "Roboto Slab";
+  letter-spacing: 0em;
+  text-align: left;
+  white-space: pre-line;
+}
+.next_link {
+  display: flex;
+  width: fit-content;
+  justify-content: center;
+  align-items: center;
+  gap: 11px;
+}
+.h2_section_title_3_sec_ {
+  font-size: 18px;
+  font-family: "Roboto Slab";
+  font-weight: 700;
+  line-height: 50px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  width: 101px;
+  color: var(--text_color);
+}
+.styled368 {
+  overflow: hidden;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  flex-direction: column;
+  padding: 3px;
+}

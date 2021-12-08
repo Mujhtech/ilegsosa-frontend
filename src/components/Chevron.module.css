@@ -1,0 +1,28 @@
+.chevron_wrapper {
+  display: block;
+  transform: rotate(-180deg);
+  width: 60px;
+  height: 60px;
+  position: relative;
+}
+.ellipse_22 {
+  display: flex;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 2px solid rgb(18, 35, 50);
+  border-radius: 50%;
+  overflow: hidden;
+  width: 60px;
+  height: 60px;
+}
+.styled592 {
+  position: absolute;
+  top: 9px;
+  left: 9px;
+  overflow: hidden;
+  width: fit-content;
+  align-items: flex-start;
+  padding: 7px 7px 7px 7px;
+  gap: 10px;
+}
